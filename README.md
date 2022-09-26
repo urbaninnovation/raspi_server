@@ -1,1 +1,4 @@
-# raspi_server ist ein einfacher Server.
+# raspi_server ist ein einfacher Server. 
+
+## N + A
+
